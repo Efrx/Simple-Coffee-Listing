@@ -1,0 +1,13 @@
+:root {
+    /* border: 1px solid red; */
+    width: 100%;
+    height: auto;
+}
+main {
+    width: 100%;
+    position: absolute;
+}
+
+main img {
+    width: 100%;
+}
